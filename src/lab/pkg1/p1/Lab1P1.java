@@ -50,7 +50,7 @@ public class Lab1P1 {
                 }
           
             }
-            
+            //Opcion de salida
             if (opcion == 2){
                 System.out.println("Saliendo del programa....");
             }
