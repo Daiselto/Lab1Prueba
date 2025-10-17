@@ -55,6 +55,10 @@ public class Lab1P1 {
                 System.out.println("Saliendo del programa....");
             }
             
+            if(opcion == 3){
+                System.out.println("Cambios");
+            }
+            
         }
         
     }
